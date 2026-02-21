@@ -1,0 +1,9 @@
+print("I have some numbers stored, please give me 1 final 2 digit number to store")
+
+b1=int(input("Give me a number"))
+b2 = 34
+b3 = 65
+b4 = 71
+b5 = 23
+
+print(b1,b2,b3,b4,b5)
